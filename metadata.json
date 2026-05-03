@@ -1,5 +1,6 @@
 {
   "name": "Arham Chat",
+  "author": "yadnik",
   "description": "A modern, sleek, and minimalistic real-time chat application built with React and Supabase.",
   "requestFramePermissions": [],
   "majorCapabilities": ["realtime_chat", "user_authentication"]

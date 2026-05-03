@@ -33,7 +33,7 @@ function MainContent() {
           </div>
           <h2 className="text-2xl font-display font-bold text-neutral-900 mb-4">Configuration Required</h2>
           <p className="text-neutral-600 mb-6 leading-relaxed">
-            Please add your Supabase credentials to the <strong>Secrets</strong> panel in AI Studio:
+            Please add your Supabase credentials in your local environment file:
           </p>
           <div className="space-y-3 text-left bg-neutral-50 p-4 rounded-xl border border-neutral-100 font-mono text-xs text-neutral-500">
             <p>VITE_SUPABASE_URL</p>
